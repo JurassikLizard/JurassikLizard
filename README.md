@@ -8,7 +8,7 @@
 
 I'm Andrey, a high schooler interested in computer and data science.
   
- 🔭 I’m currently working on a 3d printing distribution system.
+ 🔭 I’m currently working on a web-based IDE and SSH client.
 
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=JurassikLizard&theme=radical&layout=compact&count_private=false" >
 <img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JurassikLizard&layout=compact&theme=radical" >
