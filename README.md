@@ -1,14 +1,14 @@
-### Hi there 👋
-
-
 <div align="center">
   
 **Hi**
 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-I'm Andrey, a high schooler interested in computer and data science.
-  
- 🔭 I’m currently working on a web-based IDE and SSH client.
+<!-- Octo ring -->
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/JurassikLizard/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/JurassikLizard/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/JurassikLizard/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+I'm a cool green lizard.
+
+Currently working on getting AI robots to play a game of capture the flag.
 
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=JurassikLizard&theme=radical&layout=compact&count_private=false" >
 <img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JurassikLizard&layout=compact&theme=radical" >
